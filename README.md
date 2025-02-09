@@ -28,14 +28,6 @@ const apiKey = "YOUR_API_KEY_HERE";
 
 Save the file and refresh your browser.
 
-File Structure
-/weather-app
-│── index.html  # Main HTML file
-│── style.css   # CSS for styling
-│── app.js      # JavaScript logic
-│── images/     # Weather icons
-│── README.md   # Documentation
-
 # Credits:
 Developed by Ritik Sharma using JavaScript and OpenWeatherMap API.
 
