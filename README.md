@@ -36,9 +36,9 @@ File Structure
 │── images/     # Weather icons
 │── README.md   # Documentation
 
-Credits:
+# Credits:
 Developed by Ritik Sharma using JavaScript and OpenWeatherMap API.
 
-License:
+# License:
 This project is open-source and free to use.
 
